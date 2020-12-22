@@ -1,7 +1,7 @@
 TEXT-PROJECTS
 
 COMPLETED:
-Kilo-TE: A text editor written in C(currently only a text viewer).
+Kilo-TE: A text editor written in C.
 
 TODO:
 1. Fizz Buzz - Write a program that prints the numbers from 1 to 100. But for multiples of three 
