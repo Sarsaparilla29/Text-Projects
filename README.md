@@ -1,7 +1,7 @@
 TEXT-PROJECTS
 
 COMPLETED:
-1. Hello World(.cpp, .py).
+Kilo-TE: A text editor written in C(currently only a text viewer).
 
 TODO:
 1. Fizz Buzz - Write a program that prints the numbers from 1 to 100. But for multiples of three 
