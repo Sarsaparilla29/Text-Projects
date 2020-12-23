@@ -1,9 +1,9 @@
 TEXT-PROJECTS
 
-COMPLETED:
+# Completed or Work in Progress
 Kilo-TE: A text editor written in C.
 
-TODO:
+# TODO
 1. Fizz Buzz - Write a program that prints the numbers from 1 to 100. But for multiples of three 
 print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which 
 are multiples of both three and five print “FizzBuzz”.
@@ -18,8 +18,6 @@ added complexity have it report a sum of each vowel found.
 reads the same forwards as backwards like “racecar”
 6. Count Words in a String - Counts the number of individual words in a string. For added 
 complexity read these strings in from a text file and generate a summary.
-7. Text Editor - Notepad style application that can open, edit, and save text documents. 
-Optional: Add syntax highlighting and other features.
 8. RSS Feed Creator - Given a link to RSS/Atom Feed, get all posts and display them.
 9. Quote Tracker (market symbols etc) - A program which can go out and check the current value of 
 stocks for a list of symbols entered by the user. The user can set how often the stocks are 
